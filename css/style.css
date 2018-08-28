@@ -66,6 +66,7 @@ body {
 	}	
 	.menu-nav ul li a {
 		padding-left: 0px;
+		margin-left: 0px;
 	}
 }
 
